@@ -1,0 +1,3 @@
+C:/Users/carte/exercise-maxsort-ncarter579/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/carte/exercise-maxsort-ncarter579/cmake-build-debug/CMakeFiles/MaxSort.dir
+C:/Users/carte/exercise-maxsort-ncarter579/cmake-build-debug/CMakeFiles/edit_cache.dir
